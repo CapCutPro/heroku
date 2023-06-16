@@ -8,7 +8,7 @@
 $currentDate = date("Y-m-d");
 echo "<p>Today's date is: $currentDate</p>";
 
-$number1 = 10;
+$number1 = 15;
 $number2 = 5;
 $sum = $number1 + $number2;
 echo "<p>The sum of $number1 and $number2 is: $sum</p>";
